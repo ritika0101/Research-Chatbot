@@ -1,0 +1,24 @@
+{
+  "query": "what are the gst reforms in india 2025",
+  "depth": "shallow",
+  "subquestions": [
+    {
+      "id": "Q1",
+      "category": "policy",
+      "text": "GST reforms planned for 2025",
+      "priority": "high"
+    },
+    {
+      "id": "Q2",
+      "category": "impacts",
+      "text": "Impact of 2025 GST reforms",
+      "priority": "high"
+    },
+    {
+      "id": "Q3",
+      "category": "scope",
+      "text": "Areas covered by 2025 reforms",
+      "priority": "medium"
+    }
+  ]
+}

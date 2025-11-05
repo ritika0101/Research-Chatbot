@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+langchain-google-genai
+duckduckgo-search
+beautifulsoup4
+google-generativeai
+requests
+llama-index
+faiss-cpu
+groq
